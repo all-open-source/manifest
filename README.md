@@ -8,7 +8,7 @@ seules votre motivation et vos capacitées soit prise en compte pour l'admission
 
 # Nos Engagements
 
-### Entree gratuite, code libre.
+### Entree libre, code libre.
 AOS s'assure que ses resident on tout controle sur leur structure et
 s'engage de leur donner les moyens de resoudre eux meme les furstrations qu'ils
 peuvent resentir lors de leur apprentissage, tout le code fait pour AOS
