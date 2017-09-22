@@ -1,12 +1,18 @@
-# Nos promesses
+AOS a pour objectif de former des developpeurs a la pointe de leur domaine.  
+La valeur principale de l'école est la promotion sociale par le mérite,
+participant ainsi au rayonnement de la cote d'ivoire.
+
+Aucun niveau d'etude, aucune somme d'argent n'est requise afin que
+seules votre motivation et vos capacitées soit prise en compte pour l'admission.
+
+
+# Nos Engagements
 
 ### Entree gratuite, code libre.
-Pour donner une chance a tous, AOS ne s'arrete pas sur votre cursus
-ou vos moyens.
 AOS s'assure que ses resident on tout controle sur leur structure et
-promet de leur donner les moyens de resoudre eux meme les furstrations qu'ils
+s'engage de leur donner les moyens de resoudre eux meme les furstrations qu'ils
 peuvent resentir lors de leur apprentissage, tout le code fait pour AOS
-est et resetera libre, pour toujours.
+est et resetera libre.
 
 ### A la pointe
 Permetre a tous de contribuer au cursus c'est aussi se preparer au futur.
